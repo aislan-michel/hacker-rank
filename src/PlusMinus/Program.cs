@@ -32,7 +32,7 @@ class Result
 
         foreach (var n in arr)
         {
-            if(n > -100 || n > 100)
+            if(n < -100 || n > 100)
             {
                 Console.WriteLine("numbers of array between -100 and 100");
                 return;
