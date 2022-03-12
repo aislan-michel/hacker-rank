@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-TextWriter textWriter = new StreamWriter(@"D:\dev\Projetos\HackerRank\src\TimeConversion\teste.txt", true);
+TextWriter textWriter = new StreamWriter(@"path", true);
 
 string s = Console.ReadLine();
 
@@ -30,5 +30,4 @@ class Result
 
         return dateTime.ToString("HH:mm:ss");
     }
-
 }
