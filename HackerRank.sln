@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LonelyInteger", "src\Lonely
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "tests\Tests\Tests\Tests.csproj", "{E0B9B71F-C748-4CB2-BDE0-2827FCCED976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision-1", "src\SubarrayDivision-1\SubarrayDivision-1.csproj", "{84C01B4B-F64E-49FB-9043-4D61939C82F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayDivision-1", "src\SubarrayDivision-1\SubarrayDivision-1.csproj", "{84C01B4B-F64E-49FB-9043-4D61939C82F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays-DS", "src\Arrays-DS\Arrays-DS.csproj", "{D2C32E80-7B57-4C63-996A-BB38A872044D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{84C01B4B-F64E-49FB-9043-4D61939C82F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84C01B4B-F64E-49FB-9043-4D61939C82F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84C01B4B-F64E-49FB-9043-4D61939C82F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C32E80-7B57-4C63-996A-BB38A872044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C32E80-7B57-4C63-996A-BB38A872044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C32E80-7B57-4C63-996A-BB38A872044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C32E80-7B57-4C63-996A-BB38A872044D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
