@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\src\LonelyInteger\LonelyInteger.csproj" />
+    <ProjectReference Include="..\..\..\src\SubarrayDivision-1\SubarrayDivision-1.csproj" />
   </ItemGroup>
 
 </Project>

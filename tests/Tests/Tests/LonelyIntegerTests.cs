@@ -10,7 +10,7 @@ namespace Tests
         {
             var input = new List<int>(3) { 1, 1, 2 };
 
-            var result = Result.Lonelyinteger(input);
+            var result = LonelyInteger.Result.Lonelyinteger(input);
 
             Assert.Equal(2, result);
         }
